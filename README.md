@@ -1,4 +1,4 @@
-# J.P. Morgan Quantitative Research Virtual Experience
+# Quant Challenge
 Practice project based on a public JPMC Forage virtual experience. 
 This repository contains my solutions to tasks from the **J.P. Morgan Quantitative Research Virtual Internship (Forage)**.  
 It covers **two main projects**:  
