@@ -33,3 +33,5 @@ It covers **two main projects**:
 1. Clone the repository:
    ```bash
    git clone https://github.com/samarth-web/Quantitative-Research-Challenge.git
+
+For educational purposes only; not affiliated with or endorsed by J.P. Morgan.
